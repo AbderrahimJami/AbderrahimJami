@@ -1,5 +1,1 @@
-Hello,
-my name is Abderrahim Jami and I'm a games programmer and developer.
-I'm about to graduate from Abertay University this june 2021 in Computer Games Applications Development
-Looking to joining projects to improve my portfolio and get some much needed experience in programming with C-style languages
-and Game engines 	🎮	
+ I'm a recent graduate of Abertay University with a passion for game development and programming. I specialize in Unity and UE5, and I'm always eager to learn new technologies and tools to enhance my skills. As a dedicated developer, I'm constantly on the lookout for opportunities to create and innovate in the gaming industry. Currently, I'm seeking my first graduate role to kickstart my career and make my mark in the world of game development 🎮
